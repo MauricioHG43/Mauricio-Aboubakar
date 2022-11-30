@@ -5,6 +5,7 @@ li{
 
 #nav-bar{
     display: flex;
+    position: fixed;
     
 }
 
